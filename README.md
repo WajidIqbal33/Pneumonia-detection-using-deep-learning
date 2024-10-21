@@ -1,8 +1,6 @@
 # Pneumonia Detection in Chest X-Rays
 
 Convolutional Neural Network (CNN) project detecting Pneumonia in chest X-rays. 
-![Doctor holding x-ray image](Images/Doctor-holding-image-of-chest-xray.jpg)
-**Author:** [Emmi Galfo](mailto:emmi.galfo@gmail.com)
 
 ## Project Summary
 In this project, I tackled the business problem of developing an AI-powered system to detect pneumonia in chest X-ray images for a medical technology company. The data used for this task consisted of a large dataset of labeled chest X-ray images, with two classes, "Pneumonia" and "Normal." The dataset was well-suited for the business problem, as it provided a diverse sample of X-rays that included both viral and bacterial pneumonia cases as well as pneumonia free cases.
@@ -115,12 +113,8 @@ Conclusions:
 
 ***
 Thank You!
-emmi.galfo@gmail.com
-***
 
 ## Repository structure: 
-├── Images : images used in readme, presentation, and notebook \
+├── Images : images used in readme, notebook \
 ├── EDA-Modeling-Evaluation.ipynb : jupyter notebook used to create project \
 ├── README.md : project summary and conclusions \
-├── Pneumonia_Detection_Presentation.pdf : stakeholder powerpoint slides 
-
